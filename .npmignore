@@ -1,0 +1,14 @@
+*.log
+/.*/
+/.eslint*
+/.gitignore
+/.npmignore
+/.babelrc
+/docs/
+/examples/
+/example/
+/example_components/
+/example_app/
+/test/
+/src
+!lib
