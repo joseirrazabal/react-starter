@@ -1,0 +1,12 @@
+publicar: npm publish
+subir version y publicar: npm version patch
+test y vista: npm run test
+
+agregar nuestro codigo en src/components ( como src/components/prueba/prueba.jsx )
+
+para test
+modifica src/App.jsx 
+para apuntar correctamente a nuestro componente y enviar las propiedades necesarias
+
+modificar src/index.js
+para exportar el/los compoenentes
